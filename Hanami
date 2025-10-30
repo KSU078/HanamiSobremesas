@@ -1,7 +1,0 @@
-echo "# HanamiSobremesas" >> README.md 
-git init 
-git add index.html 
-git commit -m "Site hanami Sobremesas" 
-git branch -M main 
-git remote add origin https://github.com/KSU078/HanamiSobremesas.git
- git push -u origin main
